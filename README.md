@@ -7,19 +7,23 @@ K-Digital Training GIST AI X 융합파이프라인교육 (광주)
 
 코드: https://github.com/MicrosoftLearning/mslearn-ai900 
 
-2회차 | 8월 6일 | 데이터크롤링 실습
-
-Python을 이용한 웹크롤링
-
-3회차| 8월 9일 | Open API 실습
+2회차 | 8월 6일 | Open API 실습
+네이버 이미지 api 실습
+https://github.com/naver/naver-openapi-guide/tree/draft/sample
+https://developers.naver.com/docs/serviceapi/search/image/image.md#%EC%9D%B4%EB%AF%B8%EC%A7%80
 
 BING image API를 이용하여 이미지를 긁어오는 방법을 실습합니다.
-https://docs.microsoft.com/ko-kr/azure/cognitive-services/bing-image-search/quickstarts/python
 
-4회차 | 8월 10일 | Face Editing
+https://docs.microsoft.com/ko-kr/azure/cognitive-services/bing-image-search/quickstarts/python
+https://www.microsoft.com/en-us/bing/apis/bing-image-search-api
+
+3회차| 8월 9일 | 얼굴 감지 실습 | Face Detection
 
 MS Azure를 이용한 얼굴 감지 및 분석 실습
 https://docs.microsoft.com/ko-kr/learn/modules/detect-analyze-faces/
+
+ 
+4회차 | 8월 10일 | Python을 이용한 웹크롤링
 
 5회차 | 8월 11일 | 미정
 
